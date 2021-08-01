@@ -40,3 +40,5 @@
   <img height="29" src="https://komarev.com/ghpvc/?username=SEUUSUARIO&color=green" alt="arturjoaquim" /> 
  </p>
 </div>
+
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
