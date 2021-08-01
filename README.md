@@ -1,4 +1,4 @@
-<h2>Oi! Bem vindo ao meu perfil 👋</h2>
+<h2>Bem vindo ao meu perfil <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
  <div>
  <p align="center">
