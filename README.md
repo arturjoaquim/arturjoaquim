@@ -9,7 +9,7 @@
  </p>
  <ul>
   <li> 🔭 Codando para Dev Web
-  <li> 🌱 Aprendendo HTML & CSS 
+  <li> 🌱 Estudando Lua & Javascript
   <li> 📘 Interesses: Javascript, React Native, React, Node.js, Typescript, Python, Machine Learning, Docker, HTML e CSS
  </ul>
 </div>
